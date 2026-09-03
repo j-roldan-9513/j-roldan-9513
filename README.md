@@ -22,7 +22,7 @@ Con un enfoque analítico y estructurado, busco constantemente crear productos e
 **Frameworks & Librerías Core:** 
 - 🎨 **Frontend:** React, Vue.js
 - ⚙️ **Backend:** Laravel, CodeIgniter, Yii2
--📱 **Mobile & Smart TV:** Flutter, Jetpack Compose
+- 📱 **Mobile & Smart TV:** Flutter, Jetpack Compose
 - 📊 **Data Science:** Pandas, NumPy, Matplotlib
 
 **Bases de Datos:** 
